@@ -1,5 +1,5 @@
 (function() {
-	var randomWords  = ["MOTIVATED!", "COOL!", "AMAZING!", "HILARIOUS!", "BEAUTIFUL!", "HAPPY!","ALIVE!", "ADMIRABLE!", "INCREDIBLE!", "GENUINE!", "STRONG!", "POWERFUL!", "CAPABLE!"];
+	var randomWords  = ["MOTIVATED!", "COOL!", "AMAZING!", "HILARIOUS!", "BEAUTIFUL!", "HAPPY!","ALIVE!", "ADMIRABLE!", "INCREDIBLE!", "GENUINE!", "STRONG!", "POWERFUL!", "CAPABLE!", "GOOD AT PROGRAMMING!"];
 	var arrColor     = ["#45c1bf", "#f0593e", "#aeacd4", "#bdd630", "#4479bd", "#f5b11e", "#70DB70", "#FFA347", "#A34747", "#FFFF66", "#AD5CFF"];
 	var wordSelector = "#changingword";
 	var speed 			 = 200;
